@@ -1,6 +1,6 @@
-Block Google,Bing,Baidu content farm links in chromium base browsers
+# Block Google,Bing,Baidu content farm links in chromium base browsers
 
-# Usage
+## Usage
 
 * Install [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk)
 
