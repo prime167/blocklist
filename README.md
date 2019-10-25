@@ -1,4 +1,4 @@
-# Block Google,Bing,Baidu content farm links in chromium base browsers
+# Block Google,Bing,Baidu content farm domains in chromium base browsers
 
 ## Usage
 
