@@ -2,6 +2,6 @@
 
 ## Usage
 
-* Install [Search Blocklist](https://chrome.google.com/webstore/detail/search-blocklist/lmmlebipfkjpbddppdkobgfonflpifkk) extension from chrome store
+* Google Hit Hider by Domain block rules
 
-* Copy [rules](https://raw.githubusercontent.com/prime167/blocklist/master/rules.txt) into extension
+* Copy [rules](https://raw.githubusercontent.com/prime167/blocklist/master/rules.txt) and import
