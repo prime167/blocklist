@@ -1,7 +1,7 @@
-# Block Google,Bing,Baidu content farm domains in chromium base browsers
+# Block Google,Bing content farm domains in chromium base browsers
 
 ## Usage
 
-* Google Hit Hider by Domain block rules
+* Install [ublocklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 
 * Copy [rules](https://raw.githubusercontent.com/prime167/blocklist/master/rules.txt) and import
