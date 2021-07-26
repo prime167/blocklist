@@ -1,3 +1,5 @@
+*://*.airlinesalerts.com/*
+*://*.lobdol.ru/*
 *://041165.bagbag123.com/*
 *://0xzx.com/*
 *://10103939.com/*
@@ -10,6 +12,7 @@
 *://1keydata.com/*
 *://1rmct.ykqft.com/*
 *://1sheeld.com/*
+*://2020.charlotteblackfilmfestival.com/*
 *://21ic.com/*
 *://2cgz.com/*
 *://3-info.ru/*
@@ -21,7 +24,6 @@
 *://3c.ltn.com.tw/*
 *://3dnews.ru/*
 *://3fwork.com/*
-*://47d8efd5e402b1f0c55c4d228a5c0675.lobdol.ru/*
 *://4g.dahe.cn/*
 *://4j.beachhouseijmuiden.com/*
 *://4k123.com/*
@@ -124,6 +126,7 @@
 *://astel-labs.net/*
 *://astrocricketpredictions.com/*
 *://ateiomj.i3o5i.dfbvh.cn/*
+*://autismbehaviortherapists.com/*
 *://autoclubnews.com.br/*
 *://avalanchenoticias.com.br/*
 *://avtochast.ru/*
@@ -441,6 +444,8 @@
 *://educam-osteopatia.com/*
 *://edv-freunde.info/*
 *://ef6530bd54.kuznetzovart.ru/*
+*://effondrements.wordpress.com/*
+*://efx.mtk6580acev.pw/*
 *://eg-secure.co.jp/*
 *://eis.mon.gov.ru/*
 *://ejje.weblio.jp/*
@@ -919,6 +924,7 @@
 *://mavenjars.in/*
 *://max.book118.com/*
 *://mburaktorun.com/*
+*://mbw.nvidmermaid.pw/*
 *://mccaffreys-publichouse.com/*
 *://mchweb.net/*
 *://mediarama.ru/*
@@ -936,6 +942,7 @@
 *://meshgeometry3d.idoladomino.xyz/*
 *://metanit.com/*
 *://meuvisto.today/*
+*://mhn.disrupted2x8x10.pw/*
 *://micoresolutions.com/*
 *://miinaa.com/*
 *://mijingo.com/*
@@ -1001,6 +1008,7 @@
 *://news.yahoo.co.jp/*
 *://newsn.net/*
 *://newxing.com/*
+*://nexurna.com/*
 *://ngrx-8.flydar.com/*
 *://niac.mos.ru/*
 *://nicepro.tistory.com/*
@@ -1198,6 +1206,7 @@
 *://rueisnom.com/*
 *://runoob.com/*
 *://runxinzhi.com/*
+*://ryd.chaewonplanificar.space/*
 *://s-style.co.jp/*
 *://saborin.hatenablog.com/*
 *://sadjii-atelier.com/*
@@ -1302,6 +1311,7 @@
 *://sqlchitchat.com/*
 *://src-bin.com/*
 *://src.cloudminds.com/*
+*://srt.popesequalizerpro.fun/*
 *://stackanswers.net/*
 *://stacklocal.ru/*
 *://stackmirror.com/*
@@ -1458,6 +1468,7 @@
 *://vito-note.blogspot.com/*
 *://viverelacanapa.com/*
 *://viviendastenerife.com/*
+*://vtt.e600ghim.pw/*
 *://vtudien.com/*
 *://vvbeekbergen.nl/*
 *://vwiportugal.utad.pt/*
@@ -1716,6 +1727,7 @@
 *://www.czyhjb.com/*
 *://www.da-quan.net/*
 *://www.dabbsports.com/*
+*://www.dachshundhistoryonline.com/*
 *://www.daemmwerk.com/*
 *://www.daimajiaoliu.com/*
 *://www.danieldinicola.com/*
@@ -2311,6 +2323,7 @@
 *://xwood.net/*
 *://xxe-rce.bsafeelectrix.com/*
 *://xxx.tau.ac.il/*
+*://y7.manual-edition-learn.bar/*
 *://yamol.tw/*
 *://yanfang8.com/*
 *://yanglajiao.com/*
