@@ -24,6 +24,7 @@
 *://3c.ltn.com.tw/*
 *://3dnews.ru/*
 *://3fwork.com/*
+*://47d8efd5e402b1f0c55c4d228a5c0675.lobdol.ru/*
 *://4g.dahe.cn/*
 *://4j.beachhouseijmuiden.com/*
 *://4k123.com/*
@@ -77,6 +78,7 @@
 *://aizhengli.com/*
 *://ajsc.af/*
 *://akiramei.hatenadiary.org/*
+*://alask.webpages.auth.gr/*
 *://aliziarealestate.com/*
 *://all-chalisa.com/*
 *://allfreesoft.blog.fc2.com/*
@@ -158,6 +160,7 @@
 *://bebugless.com/*
 *://bedbath.ind.br/*
 *://beetools.clientesmentores.com.br/*
+*://bestfan.com/*
 *://bfigmnox.cn/*
 *://bg8399.com/*
 *://bhuvabrass.com/*
@@ -321,6 +324,7 @@
 *://coderlord.com/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
+*://codersatellite.com/*
 *://codertw.com/*
 *://codetd.com/*
 *://codeweblog.com/*
@@ -739,6 +743,7 @@
 *://jdp.younvyi.com/*
 *://jeanmclaughlin.com/*
 *://jfinspires.com/*
+*://jhnyang.tistory.com/*
 *://jhrs.com/*
 *://jiandati.com/*
 *://jishuin.proginn.com/*
@@ -845,6 +850,7 @@
 *://loveuno.com/*
 *://lozengegalleria.com/*
 *://lscrn.cn/*
+*://lsmonbet.com/*
 *://lunabura.exblog.jp/*
 *://luosoroshiya3.onrender.com/*
 *://luxe.co/*
@@ -1333,6 +1339,7 @@
 *://stigmagrow.ca/*
 *://stmichaels-scdclub.co.uk/*
 *://stopbullying.kz/*
+*://stopbyte.com/*
 *://store.shopping.yahoo.co.jp/*
 *://style-t.xyz/*
 *://suliaobaozhuang168.cn/*
