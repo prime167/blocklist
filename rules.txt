@@ -1,5 +1,12 @@
 *://*.airlinesalerts.com/*
 *://*.lobdol.ru/*
+*://*/?s=*
+*://*/cha.php?s=*
+*://*/list.php?s=*
+*://*/so.php
+*://*/so.php?s=*
+*://*/so/*
+*://00w5.com/*
 *://041165.bagbag123.com/*
 *://0xzx.com/*
 *://10103939.com/*
@@ -15,6 +22,7 @@
 *://2020.charlotteblackfilmfestival.com/*
 *://21ic.com/*
 *://2cgz.com/*
+*://2zzr.com/*
 *://3-info.ru/*
 *://30607.pgjzxu.net/*
 *://30bime.ir/*
@@ -107,6 +115,7 @@
 *://aqartcom.com/*
 *://ar-ar.facebook.com/*
 *://ar.scriptcult.com/*
+*://ar.whotwi.com/*
 *://arabicprogrammer.com/*
 *://araramistudio.jimdo.com/*
 *://arca.live/*
@@ -124,6 +133,7 @@
 *://ask.helplib.com/*
 *://askjonskeet.com/*
 *://askvoprosy.com/*
+*://asnokaze.hatenablog.com/*
 *://asp.cx/*
 *://astel-labs.net/*
 *://astrocricketpredictions.com/*
@@ -161,6 +171,7 @@
 *://bedbath.ind.br/*
 *://beetools.clientesmentores.com.br/*
 *://bestfan.com/*
+*://betmarlo155.com/*
 *://bfigmnox.cn/*
 *://bg8399.com/*
 *://bhuvabrass.com/*
@@ -189,6 +200,7 @@
 *://blog.livedoor.jp/*
 *://blog.microservice4.net/*
 *://blog.miniasp.com/*
+*://blog.naver.com/*
 *://blog.nowcoder.net/*
 *://blog.plataformatec.com.br/*
 *://blog.poychang.net/*
@@ -256,6 +268,7 @@
 *://centrocor.em.art.br/*
 *://cerdad.com.br/*
 *://cerer.com.ec/*
+*://ceron.jp/*
 *://cfhjpf.com/*
 *://cftea.com/*
 *://cgbharatbhuminews.com/*
@@ -280,6 +293,7 @@
 *://cloud.tencent.com/*
 *://cloud6.net/*
 *://cloudpack.media/*
+*://club24vulcan.com/*
 *://clubdiplomat.ma/*
 *://clubedapele.com.br/*
 *://cmbysj.com/*
@@ -308,6 +322,7 @@
 *://cnuhnd.cn/*
 *://co.6088866.vip/*
 *://cocoachina.com/*
+*://codaha.com/*
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://codeday.me/*
@@ -361,8 +376,11 @@
 *://ctf.edu.tr/*
 *://ctoit.net/*
 *://cup.edu.cn/*
+*://customgizmo.com/*
 *://cv.service-pk.ru/*
 *://cweb.canon.jp/*
+*://cxybb.com/*
+*://cxymm.net/*
 *://cybersecurity-jp.com/*
 *://cyfodyjeqy.ga/*
 *://d-supply.xsrv.jp/*
@@ -398,6 +416,7 @@
 *://devask.gr/*
 *://devask.in/*
 *://developer.aliyun.com/*
+*://dg-un.com/*
 *://dghhsjkj.com/*
 *://dhhjm.cn/*
 *://dic.b-amooz.com/*
@@ -421,6 +440,7 @@
 *://docs4dev.com/*
 *://dogknowledgeencyclopedia.com/*
 *://dokumen.tips/*
+*://doraemonzzz.com/*
 *://doraprojects.net/*
 *://dotblogs.com.tw/*
 *://dotnet9.com/*
@@ -439,6 +459,7 @@
 *://dwpi.cn/*
 *://dynamic.fotografiajd.com.br/*
 *://dzwebs.net/*
+*://e-disclosure.ru/*
 *://e-learn.cn/*
 *://eadl.mahya.live/*
 *://ebi-togo.org/*
@@ -453,6 +474,7 @@
 *://eg-secure.co.jp/*
 *://eis.mon.gov.ru/*
 *://ejje.weblio.jp/*
+*://eksisozluk.com/*
 *://el.mavenjars.com/*
 *://el.okgo.tw/*
 *://elektraengineers.com/*
@@ -506,6 +528,7 @@
 *://faradars.org/*
 *://farewellfunerals.com.au/*
 *://fattojuridico.com.br/*
+*://favolog.org/*
 *://fegokafody.cf/*
 *://feishuang406.com/*
 *://feiwei399.com/*
@@ -543,6 +566,7 @@
 *://free-doc.net/*
 *://freebrowsers.ru/*
 *://freeprog.tistory.com/*
+*://freexyz.cn/*
 *://fshyk.com/*
 *://fuhouse.setn.com/*
 *://funeralhomesofmichigan.com/*
@@ -558,6 +582,7 @@
 *://gangacell.com/*
 *://garanttools.ru/*
 *://garywoodfine.com/*
+*://gaztenpresa.org/*
 *://gbdfylptgw.com/*
 *://gblm.net/*
 *://geckosbarshanghai.com/*
@@ -599,12 +624,14 @@
 *://guru99.com/*
 *://gushwell.ldblog.jp/*
 *://gzcsjh.com/*
+*://gzdywl.com/*
 *://gzllzx.com/*
 *://gzshuinuan.com/*
 *://gzu521.com/*
 *://h10consultoriaesportiva.com.br/*
 *://habr.com/*
 *://hadipour1368.persiangig.com/*
+*://haicoder.net/*
 *://hail2u.net/*
 *://hairtransplant.afrologix.com/*
 *://handel-mebel.ru/*
@@ -638,12 +665,14 @@
 *://hjandsons.com/*
 *://hk.uwenku.com/*
 *://hk.voidcc.com/*
+*://hn.buzzing.cc/*
 *://hns197.hotelatalaia.cl/*
 *://home.gamer.com.tw/*
 *://hooni30.tistory.com/*
 *://hovenaturalhealthclinic.co.uk/*
 *://hovertree.com/*
 *://hpc.ilri.cgiar.org/*
+*://ht-consultancy-trading.com/*
 *://html-change-tab-color.bsafeelectrix.com/*
 *://html-coding.co.jp/*
 *://html5.cyberlab.info/*
@@ -652,6 +681,7 @@
 *://htmq.com/*
 *://https--github--com.proxy.huizhou.gov.cn/*
 *://https--www--huaweicloud--com--e4857.proxy.xianning.gov.cn/*
+*://humusic.net/*
 *://huttonschocolates.co.uk/*
 *://hybrid-analysis.com/*
 *://hyperts.net/*
@@ -714,6 +744,7 @@
 *://itigic.com/*
 *://itindex2.rssing.com/*
 *://itnote.ru/*
+*://itpcb.com/*
 *://itpow.com/*
 *://itqna.net/*
 *://itren.xiaolee.net/*
@@ -798,6 +829,7 @@
 *://king.a-jack.com/*
 *://kknews.cc/*
 *://klzk888.com.cn/*
+*://kmkymy.com/*
 *://kms.lenovots.com/*
 *://knowledgeisfree.tistory.com/*
 *://ko.coder.work/*
@@ -811,6 +843,7 @@
 *://kotaeta.com/*
 *://kotobank.jp/*
 *://koubeiblog.com/*
+*://kq9gd6j41z.xyz/*
 *://kr.bossgoo.com/*
 *://kr.bt4g.org/*
 *://kvd-tech.ch/*
@@ -871,6 +904,7 @@
 *://m.bubuko.com/*
 *://m.coolbaike.com/*
 *://m.copyan.com/*
+*://m.dayuansouti.com/*
 *://m.deiniu.com/*
 *://m.doczj.com/*
 *://m.erdie826.com/*
@@ -929,6 +963,7 @@
 *://matome-animekabegami.web.app/*
 *://mavenjars.in/*
 *://max.book118.com/*
+*://mbb.eet-china.com/*
 *://mburaktorun.com/*
 *://mbw.nvidmermaid.pw/*
 *://mccaffreys-publichouse.com/*
@@ -989,6 +1024,7 @@
 *://mysocialmate.com/*
 *://n6j9w.buzz/*
 *://n6o.gg396.cn/*
+*://nalab.mind.meiji.ac.jp/*
 *://naomi-homma.hatenablog.com/*
 *://nawbj6.cn/*
 *://nba.udn.com/*
@@ -1063,6 +1099,7 @@
 *://oro.com/*
 *://osaka-kyoiku.ac.jp/*
 *://osdn.net/*
+*://othermedia.info/*
 *://otzovio.ru/*
 *://outofmemory.cn/*
 *://overclockers.ru/*
@@ -1164,6 +1201,7 @@
 *://qqzhihu.com/*
 *://qqzimeiti.com/*
 *://qt-qpa.mellothiago.com/*
+*://quabr.com/*
 *://quantrimang.com/*
 *://quanzhanketang.com/*
 *://quares.ru/*
@@ -1239,6 +1277,7 @@
 *://scutum.jp/*
 *://sd.iqilu.com/*
 *://sdchain-iot.com/*
+*://sddiankeshipin.com/*
 *://search.books.com.tw/*
 *://search.howwant.com/*
 *://search.pudn.com/*
@@ -1266,6 +1305,7 @@
 *://sharpmap-tutorial.1x-bet46621.com/*
 *://shaurong.blogspot.com/*
 *://shaysegal.co.il/*
+*://shengqian001.com/*
 *://shinamaster.by/*
 *://shixian.com/*
 *://shnkzy120.com/*
@@ -1349,6 +1389,7 @@
 *://sunnews.cc/*
 *://support.clo3d.com/*
 *://support.huawei.com/*
+*://sushaa.com/*
 *://svc.011.idv.tw/*
 *://sweetsystems.se/*
 *://switch-case.ru/*
@@ -1416,6 +1457,7 @@
 *://travelnlog.com/*
 *://trichyfy.tk/*
 *://truyen4u.net/*
+*://try2explore.com/*
 *://trywou.com/*
 *://tsov.net/*
 *://ttssh2.osdn.jp/*
@@ -1436,9 +1478,13 @@
 *://tw.xyzdict.com/*
 *://tw.yahoo.com/*
 *://twcms.com/*
+*://tweet.lambda.dance/*
+*://twilog.org/*
+*://twisave.com/*
 *://tyamm.ocnk.net/*
 *://tykyunc.hateblo.jp/*
 *://ua.simpro.pp.ua/*
+*://uccu01.cc/*
 *://uchida-noodle.com/*
 *://udn.com/*
 *://udn.yyuap.com/*
@@ -1546,6 +1592,7 @@
 *://www-microsoft-com-fj.veno2.cn/*
 *://www.060s.com/*
 *://www.1024toyou.com/*
+*://www.10qianwan.com/*
 *://www.1111tc.com.tw/*
 *://www.111com.net/*
 *://www.123456789.ooo/*
@@ -1563,6 +1610,7 @@
 *://www.21doc.net/*
 *://www.21ic.com/*
 *://www.21tx.com/*
+*://www.24coco.com/*
 *://www.27ba.com/*
 *://www.288.life/*
 *://www.2bmaxi.com/*
@@ -1583,6 +1631,7 @@
 *://www.45ma.com/*
 *://www.4blc.com/*
 *://www.4k123.com/*
+*://www.4k8k.xyz/*
 *://www.51aras.com/*
 *://www.51dongshi.com/*
 *://www.51ttxue.com/*
@@ -1684,6 +1733,8 @@
 *://www.chday169.url.tw/*
 *://www.chengdulvshi.net/*
 *://www.chiark.greenend.org.uk/*
+*://www.chihong-ht.com.tw/*
+*://www.chinapress.com.my/*
 *://www.chinatimes.com/*
 *://www.cht.com.tw/*
 *://www.cioage.com/*
@@ -1696,6 +1747,7 @@
 *://www.cocoachina.com/*
 *://www.codebye.com/*
 *://www.codedown123.com/*
+*://www.codegrepper.com/*
 *://www.codeisbug.com/*
 *://www.codeleading.com/*
 *://www.codenong.com/*
@@ -1721,21 +1773,25 @@
 *://www.cs.vsb.cz/*
 *://www.csdndoc.com/*
 *://www.csdndocs.com/*
+*://www.csharpcodi.com/*
 *://www.csharpkit.com/*
 *://www.csharpstudy.com/*
 *://www.csky.com/*
 *://www.ctocio.com.cn/*
 *://www.ctolib.com/*
 *://www.cw.com.tw/*
+*://www.cxymm.net/*
 *://www.cxyzjd.com/*
 *://www.cyberforum.ru/*
 *://www.cylance.com/*
+*://www.czpygy.com/*
 *://www.czxww.cn/*
 *://www.czyhjb.com/*
 *://www.da-quan.net/*
 *://www.dabbsports.com/*
 *://www.dachshundhistoryonline.com/*
 *://www.daemmwerk.com/*
+*://www.daimadog.com/*
 *://www.daimajiaoliu.com/*
 *://www.danieldinicola.com/*
 *://www.daozha.me/*
@@ -1823,6 +1879,7 @@
 *://www.ghostyu.com/*
 *://www.ghpym.com/*
 *://www.gimoo.net/*
+*://www.ginjfo.com/*
 *://www.giranbulk.com/*
 *://www.girlx8.com/*
 *://www.git2get.com/*
@@ -1911,6 +1968,7 @@
 *://www.jeanzh.com/*
 *://www.jeepxie.net/*
 *://www.jgny.net/*
+*://www.jiahua-china.com/*
 *://www.jianchenwangluo.com/*
 *://www.jianji666.com/*
 *://www.jiayou168.net/*
@@ -1927,6 +1985,7 @@
 *://www.joyjasu.co.kr/*
 *://www.joyk.com/*
 *://www.jqhtml.com/*
+*://www.jquerycn.cn/*
 *://www.jszja.com/*
 *://www.jtdz-solenoids.com/*
 *://www.ju111ku111.net/*
@@ -1957,6 +2016,7 @@
 *://www.laiyangjia.com/*
 *://www.landiannews.com/*
 *://www.lanhusoft.com/*
+*://www.lbj.tw/*
 *://www.ldthekid.com/*
 *://www.legislation.tn/*
 *://www.leicesterpropertyinsight.co.uk/*
@@ -1973,6 +2033,8 @@
 *://www.lucklnk.com/*
 *://www.luoow.com/*
 *://www.luzyfuerzagp.org.ar/*
+*://www.m-charm.com/*
+*://www.macaodaily.com/*
 *://www.madisonpaigephotography.com/*
 *://www.manloong.com/*
 *://www.manongdao.com/*
@@ -1994,6 +2056,7 @@
 *://www.minnanogo.com/*
 *://www.mmbyte.com/*
 *://www.mofenjq.com/*
+*://www.moinulhaque.com/*
 *://www.monotaro.com/*
 *://www.monsterboard.nl/*
 *://www.movervip.com/*
@@ -2007,6 +2070,7 @@
 *://www.mushihua.org/*
 *://www.muskath.com/*
 *://www.mycodes.net/*
+*://www.myexceptions.net/*
 *://www.myoschain.com/*
 *://www.myyoya.com/*
 *://www.mzwu.com/*
@@ -2062,6 +2126,7 @@
 *://www.programmersought.com/*
 *://www.programminghunter.com/*
 *://www.prostanki.com/*
+*://www.proxy5010.appspot.com/*
 *://www.ptmujzd.cn/*
 *://www.ptt.cc/*
 *://www.pudn.com/*
@@ -2121,6 +2186,7 @@
 *://www.smf7.com/*
 *://www.smjyfwq.com/*
 *://www.smwenku.com/*
+*://www.soft111.com/*
 *://www.soft2046.com/*
 *://www.soinside.com/*
 *://www.sokmil.com/*
@@ -2131,6 +2197,7 @@
 *://www.sousou.co.jp/*
 *://www.sozhidao.com/*
 *://www.sql.ru/*
+*://www.srcmini.com/*
 *://www.stacknoob.com/*
 *://www.stackoverfill.com/*
 *://www.stechstar.com/*
@@ -2154,6 +2221,7 @@
 *://www.takefoto.cn/*
 *://www.taodabai.com/*
 *://www.taodudu.cc/*
+*://www.tdzsz.com/*
 *://www.te5.com/*
 *://www.techug.com/*
 *://www.tefen.com/*
@@ -2170,6 +2238,7 @@
 *://www.thinbug.com/*
 *://www.thinkinmd.com/*
 *://www.timesgroup.cn/*
+*://www.titanwolf.org/*
 *://www.toutiaoweb.com/*
 *://www.tpi.sh.cn/*
 *://www.tpisoftware.com/*
@@ -2200,6 +2269,7 @@
 *://www.utcluj.ro/*
 *://www.uwenku.com/*
 *://www.vajehyab.com/*
+*://www.vangxqiao.com/*
 *://www.vcs5.com/*
 *://www.vector.co.jp/*
 *://www.venace.cn/*
@@ -2229,6 +2299,7 @@
 *://www.weivb.com/*
 *://www.weiyouna.com/*
 *://www.wenqujingdian.com/*
+*://www.wenyanet.com/*
 *://www.west999.com/*
 *://www.wildbaike.com/*
 *://www.win10xiazai.com/*
@@ -2360,6 +2431,7 @@
 *://zen.yandex.ru/*
 *://zenlogic.jp/*
 *://zennolab.com/*
+*://zestedesavoir.com/*
 *://zetamatta.hatenablog.com/*
 *://zgrcedu.com/*
 *://zgserver.com/*
@@ -2387,3 +2459,5 @@
 *://zy.wenku1.com/*
 *://zzm8.com/*
 /\S+\.(it|pl|site|de|be|club|vn|mx|fr)/
+title/.* - 小.(百科|知识)网/
+title/小.(百科|知识)网/
