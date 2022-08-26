@@ -4,6 +4,9 @@
 
 * Install [ublocklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 
-* Copy [rules](https://raw.githubusercontent.com/prime167/blocklist/master/rules.txt) 
+* Open ublocklist setting
 
-* Open [ublocklist Options](extension://pncfbmialoiaghdehhbnbhkkgmjanfhe/pages/options.html) page, paste rules to the textbox and click save button
+* Click *Add subscription*
+
+   * Name *prime167's rule*
+   * URL https://raw.githubusercontent.com/prime167/blocklist/master/rules.txt
