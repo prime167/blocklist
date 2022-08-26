@@ -1,4 +1,4 @@
-# Block Google,Bing content farm domains in chromium base browsers
+# Block Google,Bing content farm domains
 
 ## Usage
 
