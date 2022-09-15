@@ -3834,7 +3834,6 @@
 *://zy.wenku1.com/*
 *://zzm8.com/*
 *://zznob.ru/*
-/\S+\.(it|pl|site|de|be|club|vn|mx|fr)/
-/\S+\.(it|pl|site|de|be|club|vn|mx|fr|jp|br|fi)/
+/\S+\.(it|pl|site|de|be|club|vn|mx|fr|jp|br|fi|tw)/
 title/.* - 小.(百科|知识)网/
 title/小.(百科|知识)网
