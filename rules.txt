@@ -3845,3 +3845,6 @@ title/.* - 小.(百科|知识)网/
 *://afusamcurico.cl/*
 *://www.batexi.com/*
 *://www.lidihuo.com/*
+*://www.navywc.com/*
+*://scottplot.coderbusy.com/*
+*://tech-and-investment.com/*
