@@ -3851,3 +3851,7 @@ title/.* - 小.(百科|知识)网/
 *://www.dw.com/*
 *://www.secretchina.com/*
 *://www.sinchew.com.my/*
+*://www.voacantonese.com/*
+*://www.trt.net.tr/*
+*://www.thenewslens.com/*
+*://m.soundofhope.org/*
