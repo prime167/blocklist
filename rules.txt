@@ -3848,3 +3848,6 @@ title/.* - 小.(百科|知识)网/
 *://www.navywc.com/*
 *://scottplot.coderbusy.com/*
 *://tech-and-investment.com/*
+*://www.dw.com/*
+*://www.secretchina.com/*
+*://www.sinchew.com.my/*
