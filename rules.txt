@@ -3864,3 +3864,5 @@ title/.* - 小.(百科|知识)网/
 *://23053.339272.com/*
 *://www.woaidaogu.com/*
 *://cw.hubwiz.com/*
+*://www.lubangd.com/*
+*://www.infalliblegroup.com/*
