@@ -3855,3 +3855,12 @@ title/.* - 小.(百科|知识)网/
 *://www.trt.net.tr/*
 *://www.thenewslens.com/*
 *://m.soundofhope.org/*
+*://www.ssfiction.com/*
+*://www.51javacms.com/*
+*://www.yishidian.com/*
+*://www.backweb.org.cn/*
+*://www.91being.com/*
+*://www.malema.net/*
+*://23053.339272.com/*
+*://www.woaidaogu.com/*
+*://cw.hubwiz.com/*
