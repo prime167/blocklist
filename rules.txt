@@ -3866,3 +3866,6 @@ title/.* - 小.(百科|知识)网/
 *://cw.hubwiz.com/*
 *://www.lubangd.com/*
 *://www.infalliblegroup.com/*
+*://net-business888.com/*
+*://tanijiten.com/*
+*://programming.pc-note.net/*
