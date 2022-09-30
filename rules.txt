@@ -3870,3 +3870,8 @@ title/.* - 小.(百科|知识)网/
 *://tanijiten.com/*
 *://programming.pc-note.net/*
 *://www.tipwho.com/*
+*://www.uptodate.com/*
+*://www.cameo.com/*
+*://www.wuzhuiso.com/*
+*://shop.jbonamassa.com/*
+*://www.sportsmole.co.uk/*
