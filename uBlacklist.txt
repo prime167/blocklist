@@ -3881,3 +3881,4 @@ title/.* - 小.(百科|知识)网/
 *://spankbang.com/*
 *://support.2k.com/*
 *://theporndude.com/*
+*://health.udn.com/*
