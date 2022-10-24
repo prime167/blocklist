@@ -3882,3 +3882,7 @@ title/.* - 小.(百科|知识)网/
 *://support.2k.com/*
 *://theporndude.com/*
 *://health.udn.com/*
+*://m.hanbit.co.kr/*
+*://hiroloquy.com/*
+*://www.acmicpc.net/*
+*://akartalezt.com/*
