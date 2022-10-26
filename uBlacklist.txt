@@ -3890,3 +3890,8 @@ title/.* - 小.(百科|知识)网/
 *://report.clinic/*
 *://www.cocodecow.com/*
 *://m.yiyuan.dxfuu.com/*
+*://www.nichepcgamer.com/*
+*://www.ultimatepocket.com/*
+*://minhpc.com/*
+*://www.www.cdyake.com/*
+*://ww7.myezliving.com/*
