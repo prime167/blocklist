@@ -3886,3 +3886,7 @@ title/.* - 小.(百科|知识)网/
 *://hiroloquy.com/*
 *://www.acmicpc.net/*
 *://akartalezt.com/*
+*://softamoz.com/*
+*://report.clinic/*
+*://www.cocodecow.com/*
+*://m.yiyuan.dxfuu.com/*
