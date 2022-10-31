@@ -3895,3 +3895,16 @@ title/.* - 小.(百科|知识)网/
 *://minhpc.com/*
 *://www.www.cdyake.com/*
 *://ww7.myezliving.com/*
+*://streetvoice.com/*
+*://www.suizou.org/*
+*://eco-pro.biz/*
+*://www.jsicm.org/*
+*://www.ask-chemicals.com/*
+*://www.sigmaaldrich.com/*
+*://js-soilphysics.com/*
+*://www.isj-imaging.org/*
+*://jsta.net/*
+*://gigazine.net/*
+*://news.livedoor.com/*
+*://highload.today/*
+*://hibiki-press.tech/*
