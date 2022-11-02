@@ -3915,3 +3915,11 @@ title/.* - 小.(百科|知识)网/
 *://www.fashionsnap.com/*
 *://italianonlinenetwork.com/*
 *://letpub.com.cn/*
+*://www.muddymommy.com/*
+*://indeconsulting.com/*
+*://www.tunghai.org/*
+*://www.ofunato-fm.com/*
+*://www.azhibo9.com/*
+*://www.bookjia.com/*
+*://heairlines.cn/*
+*://wallsxtw.com/*
