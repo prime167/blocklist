@@ -3908,3 +3908,10 @@ title/.* - 小.(百科|知识)网/
 *://news.livedoor.com/*
 *://highload.today/*
 *://hibiki-press.tech/*
+*://thechubbyprince.com/*
+*://kanau.page/*
+*://www.lula-shop.com/*
+*://jp.weforum.org/*
+*://www.fashionsnap.com/*
+*://italianonlinenetwork.com/*
+*://letpub.com.cn/*
