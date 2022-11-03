@@ -1,6 +1,5 @@
 /\S+\.(it|pl|site|de|be|club|vn|mx|fr|jp|br|fi|tw)/
 title/.* - 小.(百科|知识)网/
-
 *://*.airlinesalerts.com/*
 *://*.hatenablog.com/*
 *://*.lobdol.ru/*
@@ -3924,3 +3923,9 @@ title/.* - 小.(百科|知识)网/
 *://www.bookjia.com/*
 *://heairlines.cn/*
 *://wallsxtw.com/*
+*://tw.coderbridge.com/*
+*://gelis-dotnet.blogspot.com/*
+*://mahaljsp.asuscomm.com/*
+*://www.djcxy.com/*
+*://www.04ip.com/*
+*://moqin.net/*
