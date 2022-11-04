@@ -1,6 +1,6 @@
 /\S+\.(it|pl|site|de|be|club|vn|mx|fr|jp|br|fi|tw|buzz)/
 title/.* - 小.(百科|知识)网/
-title/Untitled
+title/Untitled/
 *://*.airlinesalerts.com/*
 *://*.hatenablog.com/*
 *://*.lobdol.ru/*
