@@ -10,3 +10,6 @@
 
    * Name *prime167's rule*
    * URL https://raw.githubusercontent.com/prime167/blocklist/master/rules.txt
+## Note
+
+This List is only for Chinese and English users.
