@@ -3931,3 +3931,7 @@ title/Untitled/
 *://www.04ip.com/*
 *://moqin.net/*
 *://tw.coderbridge.com/*
+*://z.sogou.com/*
+*://www.yasdl.com/*
+*://en-gb.facebook.com/*
+*://www.121down.com/*
