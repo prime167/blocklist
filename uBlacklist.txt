@@ -4057,3 +4057,7 @@ title/Untitled/
 *://www.baike.com/*
 *://yakiniku-hiro.com/*
 *://comic-action.com/*
+*://m.python88.com/*
+*://ld246.com/*
+*://git.7wate.com/*
+*://intussuscept42.rssing.com/*
