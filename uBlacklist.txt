@@ -4197,3 +4197,9 @@ title/Untitled/
 *://forbesjapan.com/*
 *://smatu.net/*
 *://nicoichi-read.com/*
+*://eiga.com/*
+*://data.wingarc.com/*
+*://crossroad.blog/*
+*://fifteenthousandsteps.com/*
+*://zip2000.server-shared.com/*
+*://gendai.media/*
