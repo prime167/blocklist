@@ -4203,3 +4203,15 @@ title/Untitled/
 *://fifteenthousandsteps.com/*
 *://zip2000.server-shared.com/*
 *://gendai.media/*
+*://1kuji.com/*
+*://www.tme.eu/*
+*://es.pricearchive.org/*
+*://www.avito.ru/*
+*://www.directindustry.com/*
+*://s3-ap-northeast-1.amazonaws.com/*
+*://portal.unifiedpatents.com/*
+*://apps.who.int/*
+*://www2.tri-kobe.org/*
+*://ja.techdico.com/*
+*://academic-accelerator.com/*
+*://www.merit.com/*
