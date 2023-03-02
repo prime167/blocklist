@@ -4255,3 +4255,7 @@ title/Untitled/
 *://beditor.net/*
 *://www.programmer01.com/*
 *://www.home1024.com/*
+*://tera1707.com/*
+*://www.nakamurakko.com/*
+*://developer.huaweicloud.com/*
+*://jsakamoto1.rssing.com/*
