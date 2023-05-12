@@ -4473,7 +4473,6 @@ title/Untitled/
 *://kfc.fm/*
 *://m7b.syhtl.com/*
 *://www.woshipm.com/*
-*://zh.wikipedia.org/*
 *://mikawanoyasou.org/*
 *://www.wiki2.zh-cn.nina.az/*
 *://www.biblegateway.com/*
