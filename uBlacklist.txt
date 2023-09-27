@@ -4930,3 +4930,7 @@ title/Untitled/
 *://womany.net/*
 *://blog.worldgymtaiwan.com/*
 *://www.dreamfitness.com.hk/*
+*://havfit.com/*
+*://www.etnet.com.hk/*
+*://www.stheadline.com/*
+*://gymsifu.com/*
