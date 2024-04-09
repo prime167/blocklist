@@ -5160,3 +5160,12 @@ title/Untitled/
 *://gm1qt.thesiteuk.com/*
 *://sto55.com/*
 *://oursteps.co/*
+*://quizlet.com/*
+*://www.osdump.com/*
+*://wexm.ru/*
+*://www.p30day.ir/*
+*://bbs.kakaku.com/*
+*://gouncosko.online/*
+*://krkoreanssl.co.ua/*
+*://frkoreanssl.co.ua/*
+@*://www.debian.org/*
