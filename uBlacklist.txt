@@ -5191,7 +5191,6 @@ title/Untitled/
 *://www.lcsd.gov.hk/*
 *://xczxj.cngy.gov.cn/*
 *://www.blocktempo.com/*
-*://twitter.com/*
 *://vimeo.com/*
 *://www.drschollsshoes.com/*
 *://www.bollore.com/*
