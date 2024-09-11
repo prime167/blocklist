@@ -5238,3 +5238,5 @@ title/Untitled/
 *://chinese.aljazeera.net/*
 *://zh.forvo.com/*
 *://tinder.com/*
+*://adpum.sijiaoedu.cn/*
+*://www.blackshineshoecare.co.kr/*
