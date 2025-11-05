@@ -5309,3 +5309,11 @@ title/Untitled/
 *://www.koudingke.cn/*
 *://systemcraft.biz/*
 *://products.documentprocessing.com/*
+*://123docz.net/*
+*://wenku.csdn.net/*
+*://dev59.com/*
+*://githubrsp.com/*
+*://gitwebcn.com/*
+*://huntscreens.com/*
+*://www.linkedin.com/*
+*://www.lmlphp.com/*
